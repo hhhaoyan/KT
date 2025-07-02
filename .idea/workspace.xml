@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50e1da96-deaa-4bba-9b6f-a19289ba7b35" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CASTransformer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DCTKT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASTransformer/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DCTKT/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASTransformer/add_correct.py" beforeDir="false" afterPath="$PROJECT_DIR$/DCTKT/add_correct.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASTransformer/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/DCTKT/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASTransformer/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/DCTKT/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASTransformer/eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/DCTKT/eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASTransformer/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/DCTKT/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASTransformer/test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DCTKT/test/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASTransformer/test/test_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/DCTKT/test/test_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASTransformer/test/test_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/DCTKT/test/test_eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASTransformer/visualize.py" beforeDir="false" afterPath="$PROJECT_DIR$/DCTKT/visualize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/plot_attn.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/plot_attn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/plot_tracing.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/plot_tracing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/train.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2luSNNS67sN8WIeQFdhsEvRp2Je" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python 测试.Doctests (KAN 内).executor&quot;: &quot;Run&quot;,
+    &quot;Python.111.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DMD-Transformer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DilatelocalAttention (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.DilatelocalAttention.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add_correct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add_correct_pd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add_toml.executor&quot;: &quot;Run&quot;,
+    &quot;Python.check_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.del_m.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dilatelocalktattention.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dirc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.eval.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plot_attn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.toml.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/anaconda3/python.exe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;PyScientificConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DMD-Transformer" />
+      <recent name="D:\DMD-Transformer\data" />
+      <recent name="D:\DMD-Transformer\DMD-Transformer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DMD-Transformer" />
+      <recent name="D:\DMD-Transformer\DMD-Transformer" />
+      <recent name="D:\DMD-Transformer\baselines" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.111">
+    <configuration name="111" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DCTKT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DilatelocalAttention (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DCTKT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DMD_Transformer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DMD_Transformer/DilatelocalAttention.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="check_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DCTKT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baselines" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\DMD-Transformer\check_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DCTKT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DMDTransformer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DMDTransformer/data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dilatelocalktattention" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DCTKT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DMD_Transformer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DMD_Transformer/dilatelocalktattention.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.111" />
+        <item itemvalue="Python.check_data" />
+        <item itemvalue="Python.data" />
+        <item itemvalue="Python.dilatelocalktattention" />
+        <item itemvalue="Python.DilatelocalAttention (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="50e1da96-deaa-4bba-9b6f-a19289ba7b35" name="更改" comment="" />
+      <created>1726028427441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726028427441</updated>
+      <workItem from="1726028428561" duration="618000" />
+      <workItem from="1726029174023" duration="41002000" />
+      <workItem from="1726199664302" duration="737000" />
+      <workItem from="1726200477264" duration="5180000" />
+      <workItem from="1726550735616" duration="34636000" />
+      <workItem from="1727249097377" duration="30867000" />
+      <workItem from="1727359322797" duration="5455000" />
+      <workItem from="1727422771771" duration="1966000" />
+      <workItem from="1727425270669" duration="13210000" />
+      <workItem from="1728120187365" duration="69733000" />
+      <workItem from="1728459980991" duration="75301000" />
+      <workItem from="1728802221987" duration="8400000" />
+      <workItem from="1728811264612" duration="3880000" />
+      <workItem from="1728901278935" duration="4000" />
+      <workItem from="1728902270980" duration="67043000" />
+      <workItem from="1730007008033" duration="3554000" />
+      <workItem from="1730286877044" duration="36946000" />
+      <workItem from="1730899577068" duration="13725000" />
+      <workItem from="1731314638917" duration="1447000" />
+      <workItem from="1731487415417" duration="1513000" />
+      <workItem from="1731579132001" duration="1801000" />
+      <workItem from="1731736606810" duration="10824000" />
+      <workItem from="1732008511552" duration="91000" />
+      <workItem from="1732014245910" duration="25267000" />
+      <workItem from="1732371353379" duration="40221000" />
+      <workItem from="1733186664300" duration="3000" />
+      <workItem from="1733187515113" duration="2541000" />
+      <workItem from="1733562598854" duration="893000" />
+      <workItem from="1734501682463" duration="2000" />
+      <workItem from="1734508018922" duration="1000" />
+      <workItem from="1734527618866" duration="1000" />
+      <workItem from="1735119325364" duration="1000" />
+      <workItem from="1736327157619" duration="16000" />
+      <workItem from="1742102745808" duration="118000" />
+      <workItem from="1742205315934" duration="3000" />
+      <workItem from="1742459030154" duration="35000" />
+      <workItem from="1742459101966" duration="3183000" />
+      <workItem from="1746605287352" duration="106000" />
+      <workItem from="1750485875259" duration="1170000" />
+      <workItem from="1750487656856" duration="105000" />
+      <workItem from="1750487767963" duration="3129000" />
+      <workItem from="1750863599327" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DMD-Transformer/model.py</url>
+          <line>154</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DMD-Transformer/model.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DMD-Transformer/model.py</url>
+          <line>432</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../PythonProject/DTransformer-main/DTransformer-main/DTransformer/model.py</url>
+          <line>335</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../PythonProject/DTransformer-main/DTransformer-main/DTransformer/model.py</url>
+          <line>301</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DMD_Transformer$add_correct.coverage" NAME="add_correct 覆盖结果" MODIFIED="1726202800466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_difficulty" />
+    <SUITE FILE_PATH="coverage/DMD_Transformer$eval.coverage" NAME="eval 覆盖结果" MODIFIED="1728122332449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DMD_Transformer" />
+    <SUITE FILE_PATH="coverage/DMD_Transformer$DilatelocalAttention.coverage" NAME="DilatelocalAttention 覆盖结果" MODIFIED="1727528874325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DMD_Transformer" />
+    <SUITE FILE_PATH="coverage/DMD_Transformer$DilatelocalAttention__1_.coverage" NAME="DilatelocalAttention (1) 覆盖结果" MODIFIED="1727602193122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DMD_Transformer" />
+    <SUITE FILE_PATH="coverage/CASTransformer$model.coverage" NAME="model 覆盖结果" MODIFIED="1732975198888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CASTransformer" />
+    <SUITE FILE_PATH="coverage/DMD_Transformer$test01.coverage" NAME="test01 覆盖结果" MODIFIED="1727424596620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DMD_Transformer" />
+    <SUITE FILE_PATH="coverage/DMD_Transformer$data.coverage" NAME="data 覆盖结果" MODIFIED="1728274296263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DMDTransformer" />
+    <SUITE FILE_PATH="coverage/DMD_Transformer$Doctests__KAN__.coverage" NAME="Doctests (KAN 内) 覆盖结果" MODIFIED="1726990459842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kan" />
+    <SUITE FILE_PATH="coverage/DMD_Transformer$model.coverage" NAME="model 覆盖结果" MODIFIED="1732328763835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DMDTransformer" />
+    <SUITE FILE_PATH="coverage/DMD_Transformer$toml.coverage" NAME="toml 覆盖结果" MODIFIED="1726582538501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/DCTKT$plot_attn.coverage" NAME="plot_attn 覆盖结果" MODIFIED="1750485895281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/DMD_Transformer$check_data.coverage" NAME="check_data 覆盖结果" MODIFIED="1728299715031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baselines" />
+    <SUITE FILE_PATH="coverage/DMD_Transformer$del_m.coverage" NAME="del_m 覆盖结果" MODIFIED="1726120973242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_difficulty" />
+    <SUITE FILE_PATH="coverage/DMD_Transformer$dilatelocalktattention.coverage" NAME="dilatelocalktattention 覆盖结果" MODIFIED="1727603479772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DMD_Transformer" />
+    <SUITE FILE_PATH="coverage/DMD_Transformer$111.coverage" NAME="111 覆盖结果" MODIFIED="1732330607027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DMD_Transformer$DMD_Transformer.coverage" NAME="DMD-Transformer 覆盖结果" MODIFIED="1726061717913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_diff" />
+    <SUITE FILE_PATH="coverage/DMD_Transformer$dirc.coverage" NAME="dirc 覆盖结果" MODIFIED="1726201175514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_difficulty/assist09" />
+    <SUITE FILE_PATH="coverage/DMD_Transformer$add_toml.coverage" NAME="add_toml 覆盖结果" MODIFIED="1726582603194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/DMD_Transformer$add_correct_pd.coverage" NAME="add_correct_pd 覆盖结果" MODIFIED="1726197650106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DMD_Transformer$train.coverage" NAME="train 覆盖结果" MODIFIED="1728121709236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+  </component>
+</project>
